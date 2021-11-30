@@ -2,7 +2,7 @@
 
 ---
 ### Education
-
+B.S. Environmental and Natural Resource Economics, and Geological Oceanography senior at URI, expected graduation in May 2022
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
